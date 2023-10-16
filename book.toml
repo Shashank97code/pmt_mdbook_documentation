@@ -1,0 +1,13 @@
+[book]
+authors = ["Shashank-MM"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Performance Management Tool Documentation"
+description = "The book covers documentation about PMT tool."
+
+
+[output.html]
+git-repository-url = "https://github.com/rust-lang/mdBook"
+git-repository-icon = "fa-github"
+
